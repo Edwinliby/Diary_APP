@@ -1,7 +1,8 @@
 
 # Diary App
 
-A simple app that you can use to add your daily journals. ## **Work In Progress**
+A simple app that you can use to add your daily journals. 
+## **Work In Progress**
  
 
 
