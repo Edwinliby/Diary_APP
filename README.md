@@ -7,11 +7,8 @@ A simple app that you can use to add your daily journals.
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Edwinliby/Diary_APP/blob/main/diary_app/lib/Screenshots/1.png?raw=true)
+![App Screenshot](https://github.com/Edwinliby/Diary_APP/blob/main/diary_app/lib/Screenshots/4.jpg)
 
-![App Screenshot](https://github.com/Edwinliby/Diary_APP/blob/main/diary_app/lib/Screenshots/2.png?raw=true)
-
-![App Screenshot](https://github.com/Edwinliby/Diary_APP/blob/main/diary_app/lib/Screenshots/3.png?raw=true)
 
 ## Ui/Ux Preview
 
